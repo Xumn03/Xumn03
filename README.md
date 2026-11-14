@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn ASM
 - 🌱 I’m currently learning GDScript
 - 💞️ I’m looking to collaborate on bismute chips
-- 📫 How to reach me: 
+- 📫 How to reach me: studiosangular@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not really a meme person
 
