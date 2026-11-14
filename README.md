@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xumn03
 - 👀 I’m interested in learn ASM
-- 🌱 I’m currently learning GDScript
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on bismute chips
 - 📫 How to reach me: studiosangular@gmail.com
 - 😄 Pronouns: he/him
